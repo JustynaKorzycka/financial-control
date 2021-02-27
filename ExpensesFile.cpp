@@ -11,6 +11,9 @@
 #include "IncomesFile.h"
 #include "Markup.h"
 
+
+
+
 using namespace std;
 
 void ExpensesFile::loadDataFromFile(string wholeDate, Date &date)
